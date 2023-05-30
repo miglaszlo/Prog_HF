@@ -1,0 +1,4 @@
+ID ProductName Supplier Category QuantityPerUnit 
+1 I5-5500 Intel Processor 1 
+2 I5-6500 Intel Processor 3 
+4 GTX-1050 Nvidia GPU 15 

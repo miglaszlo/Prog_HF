@@ -1,0 +1,15 @@
+1 1117_Bogdanfy_utca_10 bufek nem 3 4 Kocka_bufe
+2 1117_Magyar_tudosok_utja_7 kavezo nem 2 3 Tuske_kavezo
+3 1111_Egry_Jozsef_utca_1 bufek nem 2 4 BME_E_bufe
+4 1117_Pazmany_Peter_setany_1 bufek nem 4 4 BME_I_bufe
+5 1117_Irinyi_Jozsef_utca_4 kifozde igen 3 4 Eurest_Science_park_Etterem
+6 1117_Irinyi_Jozsef_utca_4 kifozde igen 2 4 Park_Bistro
+7 1117_Magyar_Tudosok_korutja_2 kifozde nem 2 5 MTA_TTK_etterem
+8 1111_Karinthy_Frigyes_ut_42 kinai igen 2 4 Ruyi_kinai_gyorsetterem
+9 1111_Karinthy_Frigyes_ut_50 kinai igen 2 4 Ji_Li_kinai_bufe
+10 1117_Infopark_setany_1 kifozde igen 2 4 Saga_food
+11 1117_Gabor_Denes_utca_4 kifozde igen 4 4 Double_Delight
+12 1117_Gabor_Denes_utca_2 kavezo nem 3 3 Cafe_Delight
+13 1117_Neumann_Janos_utca_1 kifozde igen 3 4 Just_Cantine_etterem
+14 1117_Budafoki_ut_113 gyors igen 2 4 Mc_Donalds
+15 1117_Szeremi_sor_1 gyors nem 2 5 Patkany_gyrosos

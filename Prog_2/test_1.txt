@@ -1,0 +1,5 @@
+ID ProductName Supplier Category QuantityPerUnit 
+1 Apple Auchan Fruit 432kg 
+2 Banana Auchan Fruit 40kg 
+3 Orange Spar Fruit 60kg 
+4 Orange Tesco Fruit 60kg 
